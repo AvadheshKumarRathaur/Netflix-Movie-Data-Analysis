@@ -1,5 +1,4 @@
-# <img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/63669151-e336-4f9c-944b-07ddb3190a5e" />
- Netflix Movie Data Analysis
+# 🎬 Netflix Movie Data Analysis
 
 An end-to-end **Data Analysis / EDA project** using Python to explore movie genres, ratings, popularity and release-year trends.
 
@@ -7,7 +6,9 @@ An end-to-end **Data Analysis / EDA project** using Python to explore movie genr
 
 ---
 ## 🎥 Demo Video
+
 https://github.com/user-attachments/assets/6188245f-227e-45bf-bc73-313ec077bc0f
+
 ---
 
 ## 📌 Project Overview
