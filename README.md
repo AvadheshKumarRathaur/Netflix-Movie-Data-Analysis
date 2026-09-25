@@ -88,7 +88,7 @@ Because the cleaned notebook recalculates these values directly from the supplie
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/netflix-movie-data-analysis.git
+git clone https://github.com/AvadheshKumarRathaur/Netflix-Movie-Data-Analysis.git
 cd netflix-movie-data-analysis
 ```
 
@@ -107,7 +107,7 @@ jupyter notebook
 Open:
 
 ```text
-Netflix_Data_Analysis.ipynb
+Netflix Data Analysis.ipynb
 ```
 
 ## 📈 Dataset
