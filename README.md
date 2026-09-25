@@ -1,8 +1,14 @@
-# 🎬 Netflix Movie Data Analysis
+# <img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/63669151-e336-4f9c-944b-07ddb3190a5e" />
+ Netflix Movie Data Analysis
 
 An end-to-end **Data Analysis / EDA project** using Python to explore movie genres, ratings, popularity and release-year trends.
 
 > **Note:** The supplied dataset is a movie dataset (`mymoviedb.csv`). Although this project is presented as a Netflix/movie analysis project, the dataset itself should not be treated as direct Netflix viewing or subscriber behavior data.
+
+---
+## 🎥 Demo Video
+https://github.com/user-attachments/assets/6188245f-227e-45bf-bc73-313ec077bc0f
+---
 
 ## 📌 Project Overview
 
@@ -32,9 +38,9 @@ This project covers:
 ## 📂 Project Structure
 
 ```text
-netflix-movie-data-analysis/
+Netflix-Movie-Data-Analysis/
 │
-├── Netflix_Data_Analysis.ipynb
+├── Netflix Data Analysis.ipynb
 ├── mymoviedb.csv
 ├── requirements.txt
 ├── README.md
@@ -47,7 +53,7 @@ netflix-movie-data-analysis/
 2. What genres has highest votes ?
 3. What movie got the highest popularity ? what's its genre ?
 4. What movie got the lowest popularity ? what's its genre ?
-5. Which year has the most filmmed movies?
+5. Which year has the most filmed movies?
 
 
 ## 🧹 Data Preparation
